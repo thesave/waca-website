@@ -3,8 +3,8 @@ edition: 2025
 title: Workshop on Adaptable Cloud Architectures
 short: WACA 2024
 header:
-  city: "Lille"
-  dates: "June 16<sup>th</sup>-20<sup>th</sup> 2024"
+  city: "Lille, France"
+  dates: "June 20<sup>th</sup>, 2024"
 email: saverio.giallorenzo@gmail.com # contact email
 url: "https://waca-workshop"
 timezone: Europe/Rome
@@ -20,6 +20,7 @@ navigation_header:
   Home:              /
   "Call for Papers": /cfp/
 # Keynotes:          /keynotes/
+  Attending:        /attending/
   Program:           /program/
 # Registration:      /registration/
   Committees:        /committees/

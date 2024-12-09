@@ -60,8 +60,8 @@
 </li>
 {% endunless %}
 {% endfor %}
-<li class="list-group-item">
-</li>
+<!-- <li class="list-group-item">
+</li> -->
 </ul>
 </div>
 
@@ -112,6 +112,8 @@ $(document).ready(function(){$('[data-toggle="tooltip"]').tooltip();});
   }
 </style>
 
+{% comment %}
+
 <div class="panel panel-primary">
   <div class="panel-heading">
   <strong>Microservices Community Events</strong>
@@ -159,3 +161,5 @@ $( document ).ready( () => {
   })
 })
 </script>
+
+{% endcomment %}
