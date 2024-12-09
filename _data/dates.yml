@@ -34,7 +34,7 @@
   id: workshop
   expired: false
   entries:
-    - date: 2024-06-08
+    - date: 2024-06-20
       zone:
         tzid: Europe/Paris
         label: CET (UTC+1)
