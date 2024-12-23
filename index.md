@@ -9,7 +9,7 @@ The Workshop on Adaptable Cloud Architectures (WACA) focuses on comparing differ
 
 The focus is on adaptation mechanisms that involve moving, adding, removing, and replacing software components, possibly modifying the provisioning of infrastructural resources in Cloud architectures. We are particularly interested in responses to changing user requirements, fluctuations in service load (desirable, e.g., increase of legit user requests, or undesirable, like DDoS attacks), infrastructure failures (e.g., machine outages, unreachable external services, or non-responsive internal components).
 
-To provide a concrete reference and a common denominator useful to compare the different contributions, we provide a case study on an adaptable version of [TeaStore](https://ieeexplore.ieee.org/document/8526888). Interested authors can find the specification of the components, events, and adaptation scenarios as part of the [call for papers]({{site.url}}/cfp). We welcome reasonable variations on that specification.
+To provide a concrete reference and a common denominator useful to compare the different contributions, we provide a case study on an [adaptable version of TeaStore]({{site.url}}/cfp/) (for reference, link to the [original TeaStore](https://ieeexplore.ieee.org/document/8526888) proposal). Interested authors can find the specification of the components, events, and adaptation scenarios as part of the [call for papers]({{site.url}}/cfp). We welcome reasonable variations on that specification.
 
 We invite participants to submit papers showcasing technologies for modelling and implementing adaptation mechanisms based on the scenarios outlined in the case study. Artefacts complementing the paper are greatly appreciated.
 

@@ -32,6 +32,8 @@ Contributions must be written in English. We strongly suggest keeping the submis
 
 Content-wise, we expect contributions to describe how their approach can capture the Adaptable TeaStore architecture and adaptation cases (cf. the specification above). When presenting implementations/artefacts, the contributors can provide an account of their functionality and discuss its practical capabilities (e.g., with experimental evaluations). The papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures.
 
+## Peer-review Process
+
 In the spirit of fostering a collaborative research community, **we expect all contributors to participate as program committee members and engage in peer-reviewing other submissions (the expected load is 1--2 papers per reviewer)**. This mutual review approach ensures diverse perspectives in evaluating adaptation solutions while promoting constructive feedback and knowledge exchange among researchers working on cloud architecture adaptation. 
 
 We kindly ask the contributors to directly [contact the workshop chairs]({{site.url}}/committees) and express their willingness to serve as PC members --- providing their names and email address --- so they can be officially added to the program committee.
