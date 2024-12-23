@@ -14,17 +14,18 @@ The focus is on adaptation mechanisms that involve moving, adding, removing, and
 ## Case Study: Adaptable TeaStore (Spec. and Experimental Platform)
 To facilitate meaningful comparison of adaptation technologies, WACA will centre around a common case study based on an adaptable version of TeaStore, a well-known microservice reference application. We welcome reasonable variations on that specification.
 
-We invite participants to submit papers showcasing technologies for modelling and implementing adaptation mechanisms based on the scenarios outlined in our case study. Artefacts complementing the paper are greatly appreciated.
-
 <div class="text-center" markdown="1">
 ## [Adaptable TeaStore Specification](https://arxiv.org/pdf/2412.16060)
 </div>
 
 To support implementations, we also provide access to a **[platform that contributors can use in their experiments]()**. This platform offers a controlled environment where one can deploy and evaluate their adaptation solution, complete with traffic generators capable of simulating various scenarios such as load fluctuations.
 
+<div class="text-center bg-warning">
+<u>We invite participants to submit papers showcasing technologies for modelling and implementing adaptation mechanisms based on the scenarios outlined in our case study. Artefacts complementing the paper are greatly appreciated.</u></div>
+
 ## Submission Guidelines
 
-The workshop itself does not have proceedings, and the submitted papers undergo a lightweight review.
+We intend to publish post-proceedings after the workshop. In preparation of the workshop, we invite submissions of paper pre-prints that will undergo a lightweight review.
 
 We invite contributors to submit papers electronically in PDF using an online submission process. Contributors must complete the submission of their papers according to submission dates through the [EasyChair conference management system](https://easychair.org/conferences?conf=waca2025).
 
