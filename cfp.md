@@ -11,15 +11,27 @@ Cloud computing has become the cornerstone of modern application deployment, yet
 
 The focus is on adaptation mechanisms that involve moving, adding, removing, and replacing software components, possibly modifying the provisioning of infrastructural resources in Cloud architectures. We are particularly interested in responses to changing user requirements, fluctuations in service load (desirable, e.g., increase of legit user requests, or undesirable, like DDoS attacks), infrastructure failures (e.g., machine outages, unreachable external services, or non-responsive internal components).
 
-## Case Study: Adaptable TeaStore
+## Case Study: Adaptable TeaStore (Spec. and Experimental Platform)
 To facilitate meaningful comparison of adaptation technologies, WACA will centre around a common case study based on an adaptable version of TeaStore, a well-known microservice reference application. We welcome reasonable variations on that specification.
 
 We invite participants to submit papers showcasing technologies for modelling and implementing adaptation mechanisms based on the scenarios outlined in our case study. Artefacts complementing the paper are greatly appreciated.
 
-[Adaptable TeaStore Specification]()
+<div class="text-center" markdown="1">
+## [Adaptable TeaStore Specification](https://arxiv.org/pdf/2412.16060)
+</div>
+
+To support implementations, we also provide access to a **[platform that contributors can use in their experiments]()**. This platform offers a controlled environment where one can deploy and evaluate their adaptation solution, complete with traffic generators capable of simulating various scenarios such as load fluctuations.
 
 ## Submission Guidelines
 
-The workshop itself does not have proceedings, and the submitted papers undergo a light-weight review.
+The workshop itself does not have proceedings, and the submitted papers undergo a lightweight review.
 
-TBD
+We invite contributors to submit papers electronically in PDF using an online submission process. Contributors must complete the submission of their papers according to submission dates through the [EasyChair conference management system](https://easychair.org/conferences?conf=waca2025).
+
+Contributions must be written in English. We strongly suggest keeping the submissions' total page number with the limit of **4--15 pages** (excluding references and appendices). While we do not impose a specific format, we suggest the authors to either use the [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/style.shtml) or [LIPIcs](https://submission.dagstuhl.de/series/details/LIPIcs#author) style.
+
+Content-wise, we expect contributions to describe how their approach can capture the Adaptable TeaStore architecture and adaptation cases (cf. the specification above). When presenting implementations/artefacts, the contributors can provide an account of their functionality and discuss its practical capabilities (e.g., with experimental evaluations). The papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures.
+
+In the spirit of fostering a collaborative research community, **we expect all contributors to participate as program committee members and engage in peer-reviewing other submissions (the expected load is 1--2 papers per reviewer)**. This mutual review approach ensures diverse perspectives in evaluating adaptation solutions while promoting constructive feedback and knowledge exchange among researchers working on cloud architecture adaptation. 
+
+We kindly ask the contributors to directly [contact the workshop chairs]({{site.url}}/committees) and express their willingness to serve as PC members --- providing their names and email address --- so they can be officially added to the program committee.
