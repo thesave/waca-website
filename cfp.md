@@ -12,13 +12,9 @@ Cloud computing has become the cornerstone of modern application deployment, yet
 The focus is on adaptation mechanisms that involve moving, adding, removing, and replacing software components, possibly modifying the provisioning of infrastructural resources in Cloud architectures. We are particularly interested in responses to changing user requirements, fluctuations in service load (desirable, e.g., increase of legit user requests, or undesirable, like DDoS attacks), infrastructure failures (e.g., machine outages, unreachable external services, or non-responsive internal components).
 
 ## Case Study: Adaptable TeaStore (Spec. and Experimental Platform)
-To facilitate meaningful comparison of adaptation technologies, WACA will centre around a common case study based on an adaptable version of TeaStore, a well-known microservice reference application. We welcome reasonable variations on that specification.
+To facilitate meaningful comparison of adaptation technologies, WACA will centre around a common case study based on an [adaptable version of TeaStore](https://arxiv.org/pdf/2412.16060), a well-known microservice reference application. We welcome reasonable variations on that specification.
 
-<div class="text-center" markdown="1">
-## [Adaptable TeaStore Specification](https://arxiv.org/pdf/2412.16060)
-</div>
-
-To support implementations, we also provide access to a **[platform that contributors can use in their experiments]()**. This platform offers a controlled environment where one can deploy and evaluate their adaptation solution, complete with traffic generators capable of simulating various scenarios such as load fluctuations.
+To support implementations, we also provide access to a **[prototype platform that contributors can use in their experiments]()**. This platform offers a controlled environment where one can deploy and evaluate their adaptation solution, including traffic generators capable of simulating various scenarios such as load fluctuations.
 
 <div class="text-center bg-warning">
 <u>We invite participants to submit papers showcasing technologies for modelling and implementing adaptation mechanisms based on the scenarios outlined in our case study. Artefacts complementing the paper are greatly appreciated.</u></div>
