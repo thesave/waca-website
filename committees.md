@@ -60,6 +60,7 @@ TBD
 
 <table>
 <tbody>
+<tr><td>Philippe Merle</td><td>INRIA, FR</td></tr>
 <tr><td>Stefan Nastic</td><td>TU Wien, AT</td></tr>
 <tr><td>Jacopo Soldani</td><td>Univeristà di Pisa, IT</td></tr>
 </tbody>
