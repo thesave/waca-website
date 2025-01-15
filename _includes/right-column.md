@@ -92,7 +92,7 @@
 {% for supporter in site.data.supporters %}
 <li class="list-group-item">
   <div class="row">
-  <div class="col-xs-7 col-md-9 vcenter"><a href="{{ supporter.link | relative_url }}"><img style="max-height:7vw;" class="img-responsive center-block" src="{{ supporter.logo | relative_url }}" alt="{{supporter.name}}"></a></div><div class="col-xs-3 col-md-3 text-center text-muted vcenter">{% if supporter.tier %}{{supporter.tier | capitalize }} {% endif%}{{supporter.type}}</div>
+  <div class="col-xs-7 col-md-9 vcenter"><a href="{{ supporter.link | relative_url }}"><img style="max-height:7vw;" class="img-responsive center-block" src="{{ supporter.logo | relative_url }}" alt="{{supporter.name}}"><p class="text-center">{{supporter.name}}</p></a></div><div class="col-xs-3 col-md-3 text-center text-muted vcenter">{% if supporter.tier %}{{supporter.tier | capitalize }} {% endif%}{{supporter.type}}</div>
   </div>
 </li>
 {% endfor %}
