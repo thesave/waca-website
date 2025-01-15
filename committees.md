@@ -54,7 +54,7 @@ TBD
   </tbody>
 </table> -->
 
-{% comment %}
+{% endcomment %}
 
 ### Program Committee
 
