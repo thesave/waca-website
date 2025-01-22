@@ -13,5 +13,5 @@ To provide a concrete reference and a common denominator useful to compare the d
 
 We invite participants to submit papers showcasing technologies for modelling and implementing adaptation mechanisms based on the scenarios outlined in the case study. Artefacts complementing the paper are greatly appreciated.
 
-The workshop itself does not have proceedings, but we will invite contributors to refine their work for the publication of the workshop <em>post-proceedings that will be published in <a href="https://about.eptcs.org/">Electronic Proceedings in Theoretical Computer Science
-</a></em>. The workshop contributions will undergo a light-weight review. The post-proceedings will follow the usual review process.
+The workshop itself does not have proceedings, but we will invite contributors to refine their work for the publication of <span class="bg-warning">the workshop <em>post-proceedings that will be published in <a href="https://about.eptcs.org/">Electronic Proceedings in Theoretical Computer Science
+</a></em></span>. The workshop contributions will undergo a light-weight review, while the post-proceedings will follow the usual review process.
