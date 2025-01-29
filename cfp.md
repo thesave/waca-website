@@ -25,7 +25,7 @@ We intend to publish post-proceedings after the workshop. In preparation of the 
 
 We invite contributors to submit papers electronically in PDF using an online submission process. Contributors must complete the submission of their papers according to submission dates through the [EasyChair conference management system](https://easychair.org/conferences?conf=waca2025).
 
-Contributions must be written in English. We strongly suggest keeping the submissions' total page number with the limit of **4--15 pages** (excluding references and appendices). While we do not impose a specific format, we suggest the authors to either use the [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/style.shtml) or [LIPIcs](https://submission.dagstuhl.de/series/details/LIPIcs#author) style.
+Contributions must be written in English. We strongly suggest keeping the submissions' total page number with the limit of **4--15 pages** (excluding references and appendices). While we do not impose a specific format, we suggest the authors to use the [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/style.shtml) style.
 
 Content-wise, we expect contributions to describe how their approach can capture the Adaptable TeaStore architecture and adaptation cases (cf. the specification above). When presenting implementations/artefacts, the contributors can provide an account of their functionality and discuss its practical capabilities (e.g., with experimental evaluations). The papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures.
 
